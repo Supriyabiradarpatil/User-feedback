@@ -1,1 +1,2 @@
 # User-feedback
+One effective way to provide users with real-time feedback on input is through the shinyFeedback package. This package enhances the UI by displaying informative error messages directly within the app interface. Using shinyFeedback is straightforward and involves two main steps. First, add useShinyFeedback() in the ui section of your app. This function sets up the necessary HTML and JavaScript elements to create an attractive display for error messages.
